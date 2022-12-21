@@ -16,7 +16,12 @@ Open the Jupyter Notebook in the starter code folder named part_1_mars_news.ipyn
 
 Use automated browsing to visit the Mars NASA news site Links to an external site.. Inspect the page to identify which elements to scrape.
 
+**Below is a part of the code in Jupyter and the Websraping News and Images:**
+
+![image](https://user-images.githubusercontent.com/112348240/208799200-2910cbb6-1c31-425e-9216-6d8aa6072b07.png)
 
 
 
+
+**The Screnshoot below shows the data Stored at MondoDB**
 ![Stored at MongoDB Screenshot](https://user-images.githubusercontent.com/112348240/208797202-a3262c38-2bd7-4949-9117-486b50dfbd76.png)
